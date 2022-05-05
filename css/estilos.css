@@ -22,6 +22,7 @@ body
 #container h1
 {
     font-size: 20px;
+    padding: 0 1em 0 1em;
 }
 
 #cabecera
@@ -50,5 +51,10 @@ body
 #post
 {
     background: white;
-    padding: 1em;    
+    padding: 0;    
+}
+
+#container p
+{
+    padding: 0 1em 0 1em;
 }
