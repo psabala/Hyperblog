@@ -1,46 +1,4 @@
-[33mcommit ff06874f81d853fa3792eb3c9c321d25f5f6ad5f[m[33m ([m[1;36mHEAD -> [m[1;32mpsabalagit[m[33m)[m
-Author: Pablo Sabala <psabala@gmail.com>
-Date:   Tue May 3 16:15:02 2022 -0300
+Esta es la historia del proyecto.
+La estoy actualizando
 
-    Mejoras de estilo
-
- articulo.html   | 17 [32m++++++++++[m[31m-------[m
- css/estilos.css | 19 [32m+++++++++++++++++[m[31m--[m
- 2 files changed, 27 insertions(+), 9 deletions(-)
-
-[33mcommit 606f1bcb8937cbe9b05f0046a874d0f419549fba[m
-Author: Pablo Sabala <psabala@gmail.com>
-Date:   Tue May 3 15:35:25 2022 -0300
-
-    Arranco proyecto real con html y css
-
- articulo.html   | 22 [32m++++++++++++++++++++++[m
- css/estilos.css |  7 [32m+++++++[m
- 2 files changed, 29 insertions(+)
-
-[33mcommit 522323623082b7d9c2f068dae34fbe9621caa2e7[m
-Author: Pablo Sabala <psabala@gmail.com>
-Date:   Tue May 3 14:55:50 2022 -0300
-
-    Nuevas lineas
-
- bio.txt | 10 [32m+++++++++[m[31m-[m
- 1 file changed, 9 insertions(+), 1 deletion(-)
-
-[33mcommit 11bfd98e8847f47ab9ffc0d4bea12ed4406fde9c[m
-Author: Pablo Sabala <psabala@gmail.com>
-Date:   Mon May 2 14:36:22 2022 -0300
-
-    Segunda version del archivo
-
- bio.txt | 3 [32m++[m[31m-[m
- 1 file changed, 2 insertions(+), 1 deletion(-)
-
-[33mcommit cc57a9a905a2b0c63b442fbe0e2e8aa2bef67f27[m
-Author: Pablo Sabala <psabala@gmail.com>
-Date:   Mon May 2 14:32:21 2022 -0300
-
-    Esta es la primera version de este archivo
-
- bio.txt | 4 [32m++++[m
- 1 file changed, 4 insertions(+)
+Master 1
